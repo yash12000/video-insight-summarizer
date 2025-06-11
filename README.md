@@ -158,12 +158,6 @@ npm run lint
 
 npm run build
 
-### Deployment Options
-
-- **Netlify**: Drag and drop `dist` folder
-- **Vercel**: Connect GitHub repository
-- **GitHub Pages**: Use `gh-pages` package
-- **Traditional Hosting**: Upload `dist` folder contents
 
 ## 📝 License
 
